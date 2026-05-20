@@ -1,1 +1,3 @@
 # CodeAlpha_sentiment-Analysis
+
+This project focuses on Sentiment Analysis using Natural Language Processing (NLP) techniques on Amazon customer reviews. The system classifies reviews into Positive, Negative, and Neutral sentiments by preprocessing textual data, cleaning unwanted words, and transforming text using TF-IDF vectorization. A Multinomial Naive Bayes machine learning model is trained to analyze customer opinions and predict sentiment patterns effectively. The project also includes data visualization through sentiment distribution graphs and confusion matrices to better understand public opinion trends and customer feedback. This analysis can help businesses improve marketing strategies, product development, and customer satisfaction insights.
